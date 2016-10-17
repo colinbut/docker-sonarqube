@@ -1,4 +1,4 @@
-# docker-sonarqube
+# Docker Sonarqube
 
 A docker container image for SonarQube 
 
